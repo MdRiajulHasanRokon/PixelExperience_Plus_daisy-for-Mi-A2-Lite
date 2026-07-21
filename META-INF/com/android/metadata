@@ -1,0 +1,10 @@
+ota-property-files=payload_metadata.bin:2455:95355,payload.bin:2455:1139923799,payload_properties.txt:1139926312:155,apex_info.pb:1763:0,care_map.pb:1810:598,metadata:69:676,metadata.pb:813:902                         
+ota-required-cache=0
+ota-streaming-property-files=payload.bin:2455:1139923799,payload_properties.txt:1139926312:155,apex_info.pb:1763:0,care_map.pb:1810:598,metadata:69:676,metadata.pb:813:902                           
+ota-type=AB
+post-build=xiaomi/daisy/daisy_sprout:10/QKQ1.191002.002/V11.0.21.0.QDLMIXM:user/release-keys
+post-build-incremental=1699178288
+post-sdk-level=33
+post-security-patch-level=2023-09-01
+post-timestamp=1699178100
+pre-device=daisy
