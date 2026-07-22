@@ -92,7 +92,6 @@ You can find all necessary files in the **[Releases](https://github.com/MdRiajul
 ## Support & Donate
 If you like the project and want to support the development:
 - [Buy me a coffe ☕](https://buymeacoffee.com/riajul124)
-- DM me directly if you want to support this specific device maintainer!
 
 ---
 *Tags: Xiaomi Mi A2 Lite, daisy, Custom ROM, Android 13, PixelExperience, AOSP, Firmware, Recovery Image, GApps*
