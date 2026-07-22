@@ -91,7 +91,7 @@ You can find all necessary files in the **[Releases](https://github.com/MdRiajul
 
 ## Support & Donate
 If you like the project and want to support the development:
-- [Donate to the Pixel Experience Team](https://buymeacoffee.com/riajul124)
+- [Buy me a coffe ☕](https://buymeacoffee.com/riajul124)
 - DM me directly if you want to support this specific device maintainer!
 
 ---
